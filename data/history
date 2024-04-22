@@ -1,0 +1,7 @@
+miner.start()
+eth.blockNumber
+eth.blockNumber()
+miner.start()
+eth.blockNumber()
+miner.start()
+exirt
